@@ -18,7 +18,7 @@ Check out my latest web development projects:
     * [Live Demo](https://shahorasooli.github.io/Amazon-Clone-JS/) | [Source Code](https://ShahoRasooli.github.io/Amazon-Clone-JS/index.html)
 * **📺 YouTube Clone**
     * [Live Demo](https://shahorasooli.github.io/YouTube-Clone/) | [Source Code](https://shahorasooli.github.io/YouTube-Clone/)
-* **📂 100 HTML/CSS/JS Projects**
+* **📂 100 HTML/CSS/JS Projects** | [Source Code](https://github.com/ShahoRasooli/HTML-CSS-JAVASCRIPT-100-PROJECTS/blob/main/README.md)
 * 
     🎥 Project 01: Background Video Landing Page: [View Live Demo](https://shahorasooli.github.io/HTML-CSS-JAVASCRIPT-100-PROJECTS/01.bg-video/) | [Source Code](https://github.com/ShahoRasooli/HTML-CSS-JAVASCRIPT-100-PROJECTS/tree/main/01.bg-video)
 
