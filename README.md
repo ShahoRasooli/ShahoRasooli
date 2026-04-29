@@ -5,8 +5,6 @@
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaho-rasooli)
 
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FShahoRasooli%2FShahoRasooli&labelColor=%232e3440&countColor=%23bb9af7&style=for-the-badge)
-
 </div>
 
 ---
