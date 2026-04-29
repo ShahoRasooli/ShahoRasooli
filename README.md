@@ -13,14 +13,14 @@
 Check out my latest web development projects:
 
 * **🏃‍♂️ Love Running**
-    * [Live Demo](https://shahorasooli.github.io/love-running/) | [Source Code](https://github.com/ShahoRasooli/love-running)
+    * [Live Demo](https://shahorasooli.github.io/love-running/) | [Source Code](https://github.com/ShahoRasooli/love-running/blob/main/README.md)
 * **📦 Amazon Clone**
-    * [Live Demo](https://shahorasooli.github.io/Amazon-Clone-JS/) | [Source Code](https://ShahoRasooli.github.io/Amazon-Clone-JS/index.html)
+    * [Live Demo](https://shahorasooli.github.io/Amazon-Clone-JS/) | [Source Code](https://github.com/ShahoRasooli/Amazon-Clone-JS/blob/main/README.md)
 * **📺 YouTube Clone**
-    * [Live Demo](https://shahorasooli.github.io/YouTube-Clone/) | [Source Code](https://shahorasooli.github.io/YouTube-Clone/)
+    * [Live Demo](https://shahorasooli.github.io/YouTube-Clone/) | [Source Code](https://github.com/ShahoRasooli/YouTube-Clone/blob/main/README.md)
 * **📂 100 HTML/CSS/JS Projects** | [Source Code](https://github.com/ShahoRasooli/HTML-CSS-JAVASCRIPT-100-PROJECTS/blob/main/README.md)
 * 
-    🎥 Project 01: Background Video Landing Page: [View Live Demo](https://shahorasooli.github.io/HTML-CSS-JAVASCRIPT-100-PROJECTS/01.bg-video/) | [Source Code](https://github.com/ShahoRasooli/HTML-CSS-JAVASCRIPT-100-PROJECTS/tree/main/01.bg-video)
+    🎥 Project 01: Background Video Landing Page: [Live Demo](https://shahorasooli.github.io/HTML-CSS-JAVASCRIPT-100-PROJECTS/01.bg-video/) | [Source Code](https://github.com/ShahoRasooli/HTML-CSS-JAVASCRIPT-100-PROJECTS/tree/main/01.bg-video)
 
   
 
