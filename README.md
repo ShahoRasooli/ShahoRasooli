@@ -17,7 +17,7 @@ Check out my latest web development projects:
 * **🏃‍♂️ Love Running**
     * [Live Demo](https://shahorasooli.github.io/love-running/) | [Source Code](https://github.com/ShahoRasooli/love-running)
 * **📦 Amazon Clone**
-    * [Live Demo](https://shahorasooli.github.io/Amazon-Clone-JS/) | [Source Code](https://github.com/ShahoRasooli/Amazon-Clone-JS)
+    * [Live Demo](https://shahorasooli.github.io/Amazon-Clone-JS/) | [Source Code](https://ShahoRasooli.github.io/Amazon-Clone-JS/index.html)
 * **📺 YouTube Clone**
     * [Live Demo](https://shahorasooli.github.io/YouTube-Clone/) | [Source Code](https://github.com/ShahoRasooli/YouTube-Clone)
 * **📂 100 HTML/CSS/JS Projects**
