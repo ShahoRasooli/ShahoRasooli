@@ -12,14 +12,16 @@
 ### 🚀 Featured Projects (Live Demos)
 Check out my latest web development projects:
 
+* ** 🎲 Boardwalk Games
+    * [Live Demo](https://shahorasooli.github.io/boardwalk-games/) | [Source Code](https://github.com/ShahoRasooli/boardwalk-games)
 * **🏃‍♂️ Love Running**
-    * [Live Demo](https://shahorasooli.github.io/love-running/) | [Source Code](https://github.com/ShahoRasooli/love-running/blob/main/README.md)
+    * [Live Demo](https://shahorasooli.github.io/love-running/) | [Source Code](https://github.com/ShahoRasooli/love-running/blob/main)
 * **📦 Amazon Clone**
-    * [Live Demo](https://shahorasooli.github.io/Amazon-Clone-JS/) | [Source Code](https://github.com/ShahoRasooli/Amazon-Clone-JS/blob/main/README.md)
+    * [Live Demo](https://shahorasooli.github.io/Amazon-Clone-JS/) | [Source Code](https://github.com/ShahoRasooli/Amazon-Clone-JS/blob/main)
 * **📺 YouTube Clone**
-    * [Live Demo](https://shahorasooli.github.io/YouTube-Clone/) | [Source Code](https://github.com/ShahoRasooli/YouTube-Clone/blob/main/README.md)
+    * [Live Demo](https://shahorasooli.github.io/YouTube-Clone/) | [Source Code](https://github.com/ShahoRasooli/YouTube-Clone/tree/main)
 * **📂 100 HTML/CSS/JS Projects** | [Source Code](https://github.com/ShahoRasooli/HTML-CSS-JAVASCRIPT-100-PROJECTS/blob/main/README.md)
-* 
+
     🎥 Project 01: Background Video Landing Page: [Live Demo](https://shahorasooli.github.io/HTML-CSS-JAVASCRIPT-100-PROJECTS/01.bg-video/) | [Source Code](https://github.com/ShahoRasooli/HTML-CSS-JAVASCRIPT-100-PROJECTS/tree/main/01.bg-video)
 
   
