@@ -12,7 +12,7 @@
 ### 🚀 Featured Projects (Live Demos)
 Check out my latest web development projects:
 
-* ** 🎲 Boardwalk Games
+*   🎲 Boardwalk Games
     * [Live Demo](https://shahorasooli.github.io/boardwalk-games/) | [Source Code](https://github.com/ShahoRasooli/boardwalk-games)
 * **🏃‍♂️ Love Running**
     * [Live Demo](https://shahorasooli.github.io/love-running/) | [Source Code](https://github.com/ShahoRasooli/love-running/blob/main)
